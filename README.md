@@ -1,8 +1,7 @@
 ### Olá!! 👋
 
 # Sobre mim
-Meu nome é Matheus, tenho 14 anos e programo desde os 12.
-
+Meu nome é Matheus, tenho 14 anos e programo desde os 12.<br>
 Tenho uma canal no Youtube de tutoriais bem legal, caso queira dar uma olhada: https://www.youtube.com/channel/UCF2Gc91vGUh5fmxFb07yNDQ
 
 Tenho alguns repositórios no meu perfil que podem te ajudar. Fique a vontade para fazer o que quiser com o que tem neles.
