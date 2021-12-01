@@ -1,9 +1,8 @@
 <h1>Hello there!! 👋</h1>
 My name is Matheus and be wellcome to my profile.
 
-<br>
-
-- Programing since 2019.
+## About me:
+- Programing since 2018.
 - Specialist in creating bugs.
 - From Brazil.
 
