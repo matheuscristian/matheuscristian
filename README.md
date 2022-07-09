@@ -5,6 +5,3 @@ My name is Matheus and be wellcome to my profile.
 - Programing since 2019.
 - Specialist in creating bugs.
 - From Brazil.
-
-## Repositories:
-Maybe i have something to help you, take a look at my repositories!!
