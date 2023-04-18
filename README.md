@@ -13,7 +13,7 @@ My name's Matheus, I've been a developer since the beginning of 2020. I started 
 
 ## Stats & Contact:
 
-![](https://github-readme-stats.vercel.app/api?username=matheuscristian&show_icons=true&theme=calm&hide=contribs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscristian&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscristian)
 [![](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4thews043@gmail.com)
