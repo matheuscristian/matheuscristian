@@ -1,6 +1,6 @@
 ## About
 
-My name's Matheus, I've been a developer since the beginning of 2020. I started learning programming to create my own games, then I found out that the world of programming is much bigger than I thought.
+Hey! I'm Cristian and I've been a developer since the beginning of 2020. I started learning programming to create my own games, then I found out that the world of programming is much bigger than I thought.
 
 ## Daily use:
 
