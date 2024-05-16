@@ -1,6 +1,6 @@
 ## About
 
-Hey! I'm Cristian and I've been a developer since the beginning of 2020. I started learning programming to create my own games, then I found out that the world of programming is much bigger than I thought.
+Hey! I'm Cristian, and I've been a developer since the beginning of 2020. I initially started learning programming to create my own games, but soon discovered that the world of programming is much broader than I had imagined.
 
 ## Daily use:
 
@@ -14,5 +14,4 @@ Hey! I'm Cristian and I've been a developer since the beginning of 2020. I start
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscristian&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheuscristian)
-[![](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m4thews043@gmail.com)
-[![](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.cristian_/)
+[![](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscristianrg@gmail.com)
