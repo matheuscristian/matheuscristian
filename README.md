@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B82014&vCenter=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 ## About
 
 Hey! I'm Cristian, and I've been a developer since the beginning of 2020. I initially started learning programming to create my own games, but soon discovered that the world of programming is much broader than I had imagined.
