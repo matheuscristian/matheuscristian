@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=700&color=DA012D&multiline=true&width=670&height=120&separator=%3C&lines=Roses+are+red%2C%3Cviolets+are+blue%2C%3CI+really+wanted+to+show+all+my+love+to+you!+;\))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&color=d1d7e0&multiline=true&width=670&height=120&repeat=false&separator=%3C&lines=Roses+are+red%2C%3Cviolets+are+blue%2C%3CI+really+wanted+to+show+all+my+love+to+you!+;\))](https://git.io/typing-svg)
 
 ## About
 
