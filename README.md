@@ -8,8 +8,8 @@ Hey! I'm Cristian, and I've been a developer since the beginning of 2020. I init
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/C/C++-919198?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C/C++-919198?style=for-the-badge&logo=c&logoColor=white)
 
 ## Stats & Contact:
 
